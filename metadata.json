@@ -1,0 +1,5 @@
+{
+  "name": "FlowGen AI Builder",
+  "description": "A no-code workflow editor to visually build and execute AI pipelines using Gemini, logic blocks, and APIs.",
+  "requestFramePermissions": []
+}
